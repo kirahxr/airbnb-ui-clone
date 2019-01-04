@@ -1,6 +1,6 @@
 # airbnb-ui-clone
 
-# how to use?
+## how to use?
 1. clone this project
 ```
 git clone https://github.com/kirahxr/airbnb-ui-clone.git
